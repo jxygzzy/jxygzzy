@@ -2,7 +2,7 @@
 
 ### Hi，there 👋
 
-- :orange_book: Focusing on Java  & python(just nonebot)
+- :orange_book: Focusing on Java  & Golang
 - 💻 Learning GoLang
 - 📫 How to reach me: jxygzzy@163.com
 
